@@ -1,0 +1,246 @@
+.atss a .at-icon-wrapper {
+    display: block;
+    padding: 8px 0;
+}
+
+#at-share-dock {
+    bottom: 0;
+    box-shadow: 0 0 1px 1px #e2dfe2;
+    left: 0;
+    max-width: 100%;
+    right: 0;
+    top: auto;
+    width: 100%;
+    z-index: 1000200;
+}
+
+.panel-body {
+    padding: 15px 31px 31px;
+}
+
+body {
+    background-color: #eee;
+    color: #333;
+    font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    font-size: 13,9px !important;
+    line-height: 1.42857;
+}
+
+.navbar-form {
+    margin: 0 0px;
+}
+
+.page-header {
+    border-color: #eea236;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+}
+
+#search{
+    background-color: #fdbe49;
+}
+
+.boton{
+    /*margin-top: 17px;*/
+}
+.centrado {
+/*width: 60%;*/
+margin: 0 auto;
+}
+
+.texto_centrado{
+    text-align: center;
+}
+
+.texto_derecha{
+    text-align: right;
+}
+
+
+.titulo {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    border-bottom: 1px solid #FDBE49;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+.acciones {
+    width: 125px;
+    text-align: center;
+}
+
+.tabla_principalv2{
+    margin: auto auto 40px;
+    /*padding: 16px 25px 5px;*/
+    /*border: 1px solid #fdbe49;
+    border-radius: 7px;*/
+    background-color: #fff;
+}
+
+.tabla_principal{
+    width: 80%;
+    margin: 28px auto 0px;
+    padding: 16px 25px 5px;
+}
+
+.botonera{
+    width: 100%;
+}
+.btn-success {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    color: #fff;
+ /*   width: 85%;  */
+}
+
+.form-control::-moz-placeholder {
+    color: #999;
+    font-size: 12px;
+    opacity: 1;
+}
+
+.table-responsive {
+  /*  margin-left: 25px;
+    margin-right: 25px;*/
+}
+
+.footer{
+    background-color: #454444;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 2 0px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+thead {
+    font-weight: bold;
+    text-align: center;
+    background-color: #eea236;
+    color: white;
+}
+
+.eliminadas {
+    font-weight: bold;
+    text-align: center;
+    background-color: #FF4800;
+    color: white;
+}
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: inherit;
+    font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    font-weight: 500;
+}
+
+div .PrintArea{
+  margin-left: 20px;
+}
+
+.container-fluid {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.page-header {
+    margin: 15px 0 19px;
+    padding-bottom: 9px;
+}
+
+.centrado table thead a:last-child {
+   color: white;
+   text-decoration: none;
+}
+
+.table-responsive {
+    border: none;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    width: 100%;
+}
+
+.panel-anaranja {
+    border-color: #eea236;
+}
+
+.panel-anaranja > .panel-heading {
+    background-color: #eea236;
+    border-color: #eea236;
+    color: #fff;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: auto;
+  padding: 5px 0;
+  margin: 2px 0 0;
+  font-size: 14px;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, .15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+
+/*
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: table;
+    font-weight: 100;
+    font-family: 'Lato';
+}
+
+.container {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 96px;
+}
+
+tabla {
+  width: 100%;
+  border-spacing: 1px;
+}
+
+fila{
+    background: #ddd none repeat scroll 0 0;
+    border: 1px solid #f86;
+    display: table-cell;
+    padding: 4px;
+    width: 33.333%;
+}
+*/
