@@ -69,7 +69,7 @@ Permite llevar un control preciso de entradas, salidas y disponibilidad de produ
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/sistema-inventario.git
+git clone https://github.com/isairey/SistemaInventario.git
 Configurar el entorno:
 XAMPP / WAMP / Laravel
 Crear base de datos
